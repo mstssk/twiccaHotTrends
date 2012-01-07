@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">twicca Google Trends plug-in</string>
+	<string name="label_loading">Loading...</string>
+	<string name="text_toast_error">Failed to get trends</string>
+	<string name="plugin_name">Google Trends</string>
+	<string name="default_lang">en</string>
+</resources>

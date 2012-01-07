@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme.Dialog.NoTitleBar" parent="@android:style/Theme.Dialog">
+		<item name="android:windowNoTitle">true</item>
+	</style>
+
+	<style name="IconButton" parent="@android:style/Widget.CompoundButton.RadioButton">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:paddingLeft">0dip</item>
+		<item name="android:background">@drawable/item_selector</item>
+		<item name="android:drawableLeft">@drawable/ic_upmark</item>
+		<item name="android:drawablePadding">3dip</item>
+	</style>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="key_lang">KEY_LANG</string>
+	<string-array name="list_lang">
+		<item>en</item>
+		<item>ja</item>
+	</string-array>
+	<string-array name="list_url">
+		<item>http://www.google.com/trends/hottrends/atom/hourly</item>
+		<item>http://www.google.co.jp/trends/hottrends/atom/hourly</item>
+	</string-array>
+</resources>
